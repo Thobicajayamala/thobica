@@ -1,0 +1,2 @@
+# thobica
+django project
